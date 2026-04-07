@@ -3,34 +3,46 @@ layout: default
 title: Publications
 ---
 
-# Publications
-
 ## Journal and Conference Papers
 
-- **Ecological Inhibition: Using Social Robots to Capture Motor Signatures of Impulsivity**  
-  Maselli M.V., Pani J., Gavazzi G., Fiorini L.  
-  *Submitted – Transactions on Human-Robot Interaction*
+<div class="card">
+  <strong>Ecological Inhibition: Using Social Robots to Capture Motor Signatures of Impulsivity</strong><br>
+  Maselli M.V., Pani J., Gavazzi G., Fiorini L.<br>
+  <em>Submitted — Transactions on Human-Robot Interaction</em>
+</div>
 
-- **Evaluating Vocal Dynamics in Children Using a Neuromorphic Approach**  
-  Maselli M.V. et al.  
-  *IEEE EMBC 2026 – Submitted*
+<div class="card">
+  <strong>Evaluating Vocal Dynamics in Children Using a Neuromorphic Approach</strong><br>
+  Maselli M.V. et al.<br>
+  <em>IEEE EMBC 2026 — Submitted</em>
+</div>
 
-- **Do You Want to Play with Me? Preliminary Study of a Motor Control Walking Game with Pepper Robot**  
-  Maselli M.V. et al.  
-  *ForItAAL 2024*
+<div class="card">
+  <strong>Evaluating Children Engagement and Robot Perception Interacting with NAO Robot in Educational Context</strong><br>
+  Fiorini L., Maselli M.V. et al.<br>
+  <em>International Conference on Social Robotics 2025</em>
+</div>
 
-- **Evaluating Children Engagement and Robot Perception Interacting with NAO Robot in Educational Context**  
-  Fiorini L., Maselli M.V. et al.  
-  *International Conference on Social Robotics 2025*
+<div class="card">
+  <strong>Robots and Reflexes: Analyzing the Stroop Effect and Impulsiveness in Human–Robot Interaction</strong><br>
+  Sorrentino A., Pani J., Maselli M.V. et al.<br>
+  <em>ICSR 2025</em>
+</div>
 
-- **Robots and Reflexes: Analyzing the Stroop Effect and Impulsiveness in Human–Robot Interaction**  
-  Sorrentino A., Pani J., Maselli M.V. et al.  
-  *ICSR 2025*
+<div class="card">
+  <strong>Do You Want to Play with Me? Preliminary Study of a Motor Control Walking Game with Pepper Robot</strong><br>
+  Maselli M.V. et al.<br>
+  <em>ForItAAL 2024</em>
+</div>
 
-- **A Dataset on Human–Cobot Collaboration for Action Recognition in Manufacturing Assembly**  
-  Maselli M.V. et al.  
-  *CoDIT 2024*
+<div class="card">
+  <strong>A Dataset on Human–Cobot Collaboration for Action Recognition in Manufacturing Assembly</strong><br>
+  Maselli M.V. et al.<br>
+  <em>CoDIT 2024</em>
+</div>
 
-- **Continuous Action Recognition in Manufacturing Contexts by Deep Graph Convolutional Networks**  
-  Maselli M.V. et al.  
-  *Intelligent Systems and Applications*
+<div class="card">
+  <strong>Continuous Action Recognition in Manufacturing Contexts by Deep Graph Convolutional Networks</strong><br>
+  Maselli M.V. et al.<br>
+  <em>Intelligent Systems and Applications</em>
+</div>

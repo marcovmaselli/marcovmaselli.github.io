@@ -3,66 +3,78 @@ layout: default
 title: Curriculum Vitae
 ---
 
-# Curriculum Vitae
-
 ## Education
 
-**PhD in Biomedical Engineering**  
-University of Florence, Italy  
-2024 – Present  
-Research topic: *Neurorobotic Behavioral Models for Advanced Human–Robot Interaction in Biomedical Applications*
-
-**Master Degree in Biomedical Engineering**  
-Politecnico di Torino, Italy  
-2017 – 2020  
-Thesis: *Nonlinear analysis of decomposed sleep EEG through higher order spectra*
-
-**Bachelor Degree in Biomedical Engineering**  
-Politecnico di Torino, Italy  
-2015 – 2017
-
----
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">2024 – Present</div>
+    <div class="timeline-title">PhD in Biomedical Engineering</div>
+    <div class="timeline-sub">University of Florence, Italy</div>
+    <p style="font-size:0.92rem;">Neurorobotic Behavioral Models for Advanced Human–Robot Interaction in Biomedical Applications</p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2017 – 2020</div>
+    <div class="timeline-title">Master's Degree in Biomedical Engineering</div>
+    <div class="timeline-sub">Politecnico di Torino, Italy</div>
+    <p style="font-size:0.92rem;">Thesis: <em>Nonlinear analysis of decomposed sleep EEG through higher order spectra</em></p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2015 – 2017</div>
+    <div class="timeline-title">Bachelor's Degree in Biomedical Engineering</div>
+    <div class="timeline-sub">Politecnico di Torino, Italy</div>
+  </div>
+</div>
 
 ## Work Experience
 
-**Research Fellow – University of Florence**  
-2023 – 2024  
-- Research and development of robotic technologies for healthcare  
-- Cognitive–motor assessment through human–robot interaction  
-
-**Adjunct Professor – Politecnico di Bari**  
-2023 – 2024  
-Fundamentals of Computer Science for Engineering  
-
-**Research Fellow – CNR STIIMA, Bari**  
-2022 – 2023  
-- Machine perception and action recognition  
-- Deep learning models (CNN, GNN)  
-- Skeleton-based analysis and anomaly detection  
-
-**Research Assistant – Politecnico di Bari**  
-2021 – 2022  
-- Signal processing and ECG analysis  
-
-**Field Service Engineer – Euroclinics**  
-2021  
-- Maintenance of biomedical diagnostic equipment  
-
----
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">2023 – 2024</div>
+    <div class="timeline-title">Research Fellow</div>
+    <div class="timeline-sub">University of Florence</div>
+    <p style="font-size:0.92rem;">Development of robotic technologies for healthcare; cognitive–motor assessment through human–robot interaction.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2023 – 2024</div>
+    <div class="timeline-title">Adjunct Professor</div>
+    <div class="timeline-sub">Politecnico di Bari — Fundamentals of Computer Science for Engineering</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2022 – 2023</div>
+    <div class="timeline-title">Research Fellow</div>
+    <div class="timeline-sub">CNR STIIMA, Bari</div>
+    <p style="font-size:0.92rem;">Machine perception and action recognition; deep learning (CNN, GNN); skeleton-based analysis and anomaly detection.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2021 – 2022</div>
+    <div class="timeline-title">Research Assistant</div>
+    <div class="timeline-sub">Politecnico di Bari — Signal processing and ECG analysis</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2021</div>
+    <div class="timeline-title">Field Service Engineer</div>
+    <div class="timeline-sub">Euroclinics — Maintenance of biomedical diagnostic equipment</div>
+  </div>
+</div>
 
 ## Skills
 
-- Programming: Python, MATLAB, JavaScript  
-- Machine Learning and AI  
-- Human–Robot Interaction  
-- Signal Processing  
-- Data Science  
-- Experimental Design  
-- Teaching and Mentoring  
-
----
+<div class="skills-list">
+  <span class="skill-tag">Python</span>
+  <span class="skill-tag">MATLAB</span>
+  <span class="skill-tag">JavaScript</span>
+  <span class="skill-tag">Machine Learning</span>
+  <span class="skill-tag">Deep Learning</span>
+  <span class="skill-tag">Signal Processing</span>
+  <span class="skill-tag">Human–Robot Interaction</span>
+  <span class="skill-tag">Data Science</span>
+  <span class="skill-tag">Experimental Design</span>
+  <span class="skill-tag">Teaching</span>
+</div>
 
 ## Languages
 
-- Italian: Native  
-- English: C1  
+<div class="skills-list">
+  <span class="skill-tag">Italian — Native</span>
+  <span class="skill-tag">English — C1</span>
+</div>
