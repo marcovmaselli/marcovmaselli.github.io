@@ -1,0 +1,23 @@
+title: "Marco Maselli"
+author: "Marco Maselli"
+description: "Biomedical Engineer and PhD Student in Social Robotics and Cognitive-Motor Assessment"
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv
+  - title: "Publications"
+    url: /publications
+  - title: "Projects"
+    url: /projects
+  - title: "Teaching"
+    url: /teaching
+  - title: "Contact"
+    url: /contact
