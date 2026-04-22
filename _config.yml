@@ -19,5 +19,7 @@ navigation:
     url: /projects
   - title: "Teaching"
     url: /teaching
+  - title: "Profiles"
+    url: /profiles
   - title: "Contact"
     url: /contact
