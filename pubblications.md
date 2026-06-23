@@ -5,16 +5,16 @@ title: Publications
 
 ## Journal and Conference Papers
 
-<div class="card">
+<!-- <div class="card">
   <strong>Ecological Inhibition: Using Social Robots to Capture Motor Signatures of Impulsivity</strong><br>
   Maselli M.V., Pani J., Gavazzi G., Fiorini L.<br>
   <em>Submitted — Transactions on Human-Robot Interaction</em>
-</div>
+</div> -->
 
 <div class="card">
   <strong>Evaluating Vocal Dynamics in Children Using a Neuromorphic Approach</strong><br>
   Maselli M.V. et al.<br>
-  <em>IEEE EMBC 2026 — Submitted</em>
+  <em>IEEE EMBC 2026 —  Student Paper Competition Finalist</em>
 </div>
 
 <div class="card">
