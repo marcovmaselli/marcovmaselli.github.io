@@ -7,12 +7,12 @@ title: Profiles
   <p style="color:#64748b; font-size:0.95rem;">Scan the QR code or follow the links below to find me on academic and professional networks.</p>
   <div style="display:inline-block; padding:1rem; background:#fff; border:1px solid #e2e8f0; border-radius:12px; box-shadow:0 2px 12px rgba(0,0,0,0.06); margin-top:0.5rem;">
     <img
-      src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&margin=10&data=https%3A%2F%2Fmvm95.github.io%2Fprofiles"
-      alt="QR code – mvm95.github.io/profiles"
+      src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&margin=10&data=https%3A%2F%2Fmarcovmaselli.github.io%2Fprofiles"
+      alt="QR code – marcovmaselli.github.io/profiles"
       width="200" height="200"
       style="display:block; border-radius:6px;"
     />
-    <p style="font-size:0.75rem; color:#94a3b8; margin-top:0.6rem; margin-bottom:0;">mvm95.github.io/profiles</p>
+    <p style="font-size:0.75rem; color:#94a3b8; margin-top:0.6rem; margin-bottom:0;">marcovmaselli.github.io/profiles</p>
   </div>
 </div>
 
@@ -66,11 +66,11 @@ title: Profiles
     </div>
   </a>
 
-  <a class="profile-card" href="https://github.com/mvm95" target="_blank" rel="noopener">
+  <a class="profile-card" href="https://github.com/marcovmaselli" target="_blank" rel="noopener">
     <div class="profile-icon" style="background:#24292e; color:#fff;">⚙</div>
     <div>
       <div class="profile-name">GitHub</div>
-      <div class="profile-id">mvm95</div>
+      <div class="profile-id">marcovmaselli</div>
     </div>
   </a>
 

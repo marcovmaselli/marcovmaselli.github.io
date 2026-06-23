@@ -21,7 +21,7 @@ I am a Biomedical Engineer and PhD student at the **University of Florence**, wo
 ## Connect
 
 <div class="social-links">
-  <a class="social-link" href="https://github.com/mvm95">⚙ GitHub</a>
+  <a class="social-link" href="https://github.com/marcovmaselli">⚙ GitHub</a>
   <a class="social-link" href="https://www.linkedin.com/in/mv-maselli/">💼 LinkedIn</a>
   <a class="social-link" href="https://orcid.org/0009-0004-0893-6513">🔬 ORCID</a>
   <a class="social-link" href="https://scholar.google.com/citations?user=GdpGVaUAAAAJ">📚 Google Scholar</a>
