@@ -17,8 +17,6 @@ navigation:
     url: /publications
   - title: "Projects"
     url: /projects
-  - title: "Teaching"
-    url: /teaching
   - title: "Profiles"
     url: /profiles
   - title: "Contact"
