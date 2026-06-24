@@ -5,9 +5,9 @@ title: Home
 
 Hi, I'm **Marco**.
 
-I'm a PhD student at the University of Florence, working at the crossroads of social robotics, cognitive neuroscience, and bio-inspired computing. I design robot-based paradigms to study how people move, respond, and inhibit action in naturalistic settings, drawing from psychology and neuroscience for the experimental design and neuromorphic approaches for the signal analysis.
+I work with social robots, but not to make them smarter. What interests me is what they reveal about us. My PhD sits somewhere between robotics, cognitive neuroscience, and psychology: I design tasks where people interact with robots in real, everyday settings and study what their movements and reactions say about how they think and control their behavior.
 
-Before my PhD, I worked as a Research Fellow at CNR STIIMA in Bari developing deep learning models for continuous action recognition in manufacturing environments, a background that now feeds directly into how I think about motion and behavior.
+On the computational side I take a neuromorphic approach, brain-inspired signal processing that tries to make sense of biological data the way biology does. There's something appealing about using the brain as a model for understanding the brain.
 
 ## Research Interests
 
