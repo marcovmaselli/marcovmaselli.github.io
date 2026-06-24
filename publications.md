@@ -14,7 +14,7 @@ title: Publications
 <div class="card">
   <strong>Humanoids Robots in Pediatric Care Facilities: from Pain Management to Cognitive Rehabilitative Support</strong><br>
   Fiorini L., Adelucci E., Maselli M.V. et al.<br>
-  <em>IEEE Ro-Man 2025 — In press</em>
+  <em>IEEE Ro-Man 2025, in press</em>
 </div>
 
 <div class="card">
@@ -32,7 +32,7 @@ title: Publications
 <div class="card">
   <strong>Can You Help Me Re-Order a Story? Design and Development of a Game-Based Activity with NAO for Children</strong><br>
   Maselli M.V. et al.<br>
-  <em>IX National Congress of Bioengineering — In press</em>
+  <em>IX National Congress of Bioengineering, in press</em>
 </div>
 
 <div class="card">

@@ -14,7 +14,7 @@ title: Curriculum Vitae
     <div class="timeline-date">2024 – Present</div>
     <div class="timeline-title">PhD in Biomedical Engineering</div>
     <div class="timeline-sub">University of Florence, Italy</div>
-    <p style="font-size:0.92rem;">Neurorobotic Behavioral Models for Advanced Human–Robot Interaction in Biomedical Applications</p>
+    <p style="font-size:0.92rem;">Neurorobotic Behavioral Models for Advanced Human-Robot Interaction in Biomedical Applications</p>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2017 – 2020</div>
@@ -30,7 +30,7 @@ title: Curriculum Vitae
   <div class="timeline-item">
     <div class="timeline-date">2020</div>
     <div class="timeline-title">Java Academy Course</div>
-    <div class="timeline-sub">Accenture — 6-week intensive program</div>
+    <div class="timeline-sub">Accenture, 6-week intensive program</div>
   </div>
 </div>
 
@@ -41,18 +41,18 @@ title: Curriculum Vitae
     <div class="timeline-date">2024 – Present</div>
     <div class="timeline-title">PhD Student</div>
     <div class="timeline-sub">University of Florence</div>
-    <p style="font-size:0.92rem;">Research on neurorobotic models and cognitive–motor assessment through human–robot interaction.</p>
+    <p style="font-size:0.92rem;">Research on neurorobotic models and cognitive-motor assessment through human-robot interaction.</p>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2023 – 2024</div>
     <div class="timeline-title">Research Fellow</div>
     <div class="timeline-sub">University of Florence</div>
-    <p style="font-size:0.92rem;">Development of robotic technologies for healthcare and active aging; cognitive–motor assessment through human–robot interaction.</p>
+    <p style="font-size:0.92rem;">Development of robotic technologies for healthcare and active aging; cognitive-motor assessment through human-robot interaction.</p>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2023 – 2024</div>
     <div class="timeline-title">Adjunct Professor</div>
-    <div class="timeline-sub">Politecnico di Bari — Fundamentals of Computer Science for Engineering</div>
+    <div class="timeline-sub">Politecnico di Bari, Fundamentals of Computer Science for Engineering</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2022 – 2023</div>
@@ -63,7 +63,7 @@ title: Curriculum Vitae
   <div class="timeline-item">
     <div class="timeline-date">2021 – 2022</div>
     <div class="timeline-title">Research Assistant</div>
-    <div class="timeline-sub">Politecnico di Bari — Signal processing and ECG analysis</div>
+    <div class="timeline-sub">Politecnico di Bari, signal processing and ECG analysis</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2021 – 2022</div>
@@ -74,7 +74,12 @@ title: Curriculum Vitae
   <div class="timeline-item">
     <div class="timeline-date">2021</div>
     <div class="timeline-title">Field Service Engineer</div>
-    <div class="timeline-sub">Euroclinics — Maintenance of biomedical diagnostic equipment, Puglia region</div>
+    <div class="timeline-sub">Euroclinics, Puglia region</div>
+    <p style="font-size:0.92rem;">Installation and maintenance of biomedical diagnostic equipment in hospitals and clinical laboratories.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-title">Waiter, Bartender &amp; Event Technician</div>
+    <div class="timeline-sub">Various, alongside studies</div>
   </div>
 </div>
 
@@ -83,7 +88,7 @@ title: Curriculum Vitae
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-date">2025</div>
-    <div class="timeline-title">XLIV Annual School — Unlocking the Mind and Emotions</div>
+    <div class="timeline-title">XLIV Annual School, Unlocking the Mind and Emotions</div>
     <div class="timeline-sub">Gruppo Nazionale Bioingegneria (GNB)</div>
   </div>
   <div class="timeline-item">
@@ -99,19 +104,19 @@ title: Curriculum Vitae
   <div class="timeline-item">
     <div class="timeline-date">2026 – Present</div>
     <div class="timeline-title">Student Representative</div>
-    <div class="timeline-sub">IEEE Robotics and Automation Society — Technical Committee on Human-Robot Interaction & Coordination (HRIC)</div>
+    <div class="timeline-sub">IEEE Robotics and Automation Society, Technical Committee on Human-Robot Interaction &amp; Coordination (HRIC)</div>
   </div>
 </div>
 
 ## Skills
 
 <div class="skills-list">
-  <span class="skill-tag">Human–Robot Interaction</span>
+  <span class="skill-tag">Human-Robot Interaction</span>
   <span class="skill-tag">Social Robotics</span>
-  <span class="skill-tag">Cognitive & Motor Assessment</span>
-  <span class="skill-tag">Machine Learning & AI</span>
+  <span class="skill-tag">Cognitive &amp; Motor Assessment</span>
+  <span class="skill-tag">Machine Learning &amp; AI</span>
   <span class="skill-tag">Neuromorphic Computing</span>
-  <span class="skill-tag">Signal Processing & Biomedical Data</span>
+  <span class="skill-tag">Signal Processing &amp; Biomedical Data</span>
   <span class="skill-tag">Experimental Design</span>
   <span class="skill-tag">Data Science</span>
 </div>
@@ -119,6 +124,6 @@ title: Curriculum Vitae
 ## Languages
 
 <div class="skills-list">
-  <span class="skill-tag">Italian — Native</span>
-  <span class="skill-tag">English — C1</span>
+  <span class="skill-tag">Italian, native</span>
+  <span class="skill-tag">English, C1</span>
 </div>

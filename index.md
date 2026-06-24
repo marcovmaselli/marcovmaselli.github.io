@@ -5,9 +5,9 @@ title: Home
 
 Hi, I'm **Marco**.
 
-I'm a Biomedical Engineer and PhD student at the **University of Florence**, working on neurorobotic behavioral models for advanced human–robot interaction in biomedical applications. My research focuses on how social robots can be used to capture and assess cognitive and motor behavior in ecological settings — combining signal processing, machine learning, and experimental design.
+I'm a PhD student at the University of Florence, working at the crossroads of social robotics, cognitive neuroscience, and bio-inspired computing. I design robot-based paradigms to study how people move, respond, and inhibit action in naturalistic settings, drawing from psychology and neuroscience for the experimental design and neuromorphic approaches for the signal analysis.
 
-Before starting my PhD, I worked as a Research Fellow at both the University of Florence and at **CNR STIIMA** in Bari, where I developed deep learning models for continuous action recognition in manufacturing environments.
+Before my PhD, I worked as a Research Fellow at CNR STIIMA in Bari developing deep learning models for continuous action recognition in manufacturing environments, a background that now feeds directly into how I think about motion and behavior.
 
 ## Research Interests
 
