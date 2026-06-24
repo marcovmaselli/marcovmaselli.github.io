@@ -3,6 +3,10 @@ layout: default
 title: Curriculum Vitae
 ---
 
+<div style="margin-bottom:2.5rem;">
+  <a href="/assets/CV_MM.pdf" class="cv-download-btn" target="_blank">↓ Download full CV (PDF)</a>
+</div>
+
 ## Education
 
 <div class="timeline">
@@ -23,16 +27,27 @@ title: Curriculum Vitae
     <div class="timeline-title">Bachelor's Degree in Biomedical Engineering</div>
     <div class="timeline-sub">Politecnico di Torino, Italy</div>
   </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2020</div>
+    <div class="timeline-title">Java Academy Course</div>
+    <div class="timeline-sub">Accenture — 6-week intensive program</div>
+  </div>
 </div>
 
 ## Work Experience
 
 <div class="timeline">
   <div class="timeline-item">
+    <div class="timeline-date">2024 – Present</div>
+    <div class="timeline-title">PhD Student</div>
+    <div class="timeline-sub">University of Florence</div>
+    <p style="font-size:0.92rem;">Research on neurorobotic models and cognitive–motor assessment through human–robot interaction.</p>
+  </div>
+  <div class="timeline-item">
     <div class="timeline-date">2023 – 2024</div>
     <div class="timeline-title">Research Fellow</div>
     <div class="timeline-sub">University of Florence</div>
-    <p style="font-size:0.92rem;">Development of robotic technologies for healthcare; cognitive–motor assessment through human–robot interaction.</p>
+    <p style="font-size:0.92rem;">Development of robotic technologies for healthcare and active aging; cognitive–motor assessment through human–robot interaction.</p>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2023 – 2024</div>
@@ -43,7 +58,7 @@ title: Curriculum Vitae
     <div class="timeline-date">2022 – 2023</div>
     <div class="timeline-title">Research Fellow</div>
     <div class="timeline-sub">CNR STIIMA, Bari</div>
-    <p style="font-size:0.92rem;">Machine perception and action recognition; deep learning (CNN, GNN); skeleton-based analysis and anomaly detection.</p>
+    <p style="font-size:0.92rem;">Machine perception and continuous action recognition; deep learning (CNN, GNN); skeleton-based analysis and anomaly detection in manufacturing environments.</p>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2021 – 2022</div>
@@ -51,25 +66,54 @@ title: Curriculum Vitae
     <div class="timeline-sub">Politecnico di Bari — Signal processing and ECG analysis</div>
   </div>
   <div class="timeline-item">
+    <div class="timeline-date">2021 – 2022</div>
+    <div class="timeline-title">Junior Functional Analyst</div>
+    <div class="timeline-sub">Accenture, Torino</div>
+    <p style="font-size:0.92rem;">Managed and customized the Kinaxis RapidResponse platform for enterprise clients; translated supply-chain requirements into technical specifications and data-driven solutions.</p>
+  </div>
+  <div class="timeline-item">
     <div class="timeline-date">2021</div>
     <div class="timeline-title">Field Service Engineer</div>
-    <div class="timeline-sub">Euroclinics — Maintenance of biomedical diagnostic equipment</div>
+    <div class="timeline-sub">Euroclinics — Maintenance of biomedical diagnostic equipment, Puglia region</div>
+  </div>
+</div>
+
+## Schools
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">2025</div>
+    <div class="timeline-title">XLIV Annual School — Unlocking the Mind and Emotions</div>
+    <div class="timeline-sub">Gruppo Nazionale Bioingegneria (GNB)</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2023</div>
+    <div class="timeline-title">9th International School on Deep Learning</div>
+    <div class="timeline-sub">Institute for Research Development, Training and Advice (IRDTA)</div>
+  </div>
+</div>
+
+## Volunteering
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">2026 – Present</div>
+    <div class="timeline-title">Student Representative</div>
+    <div class="timeline-sub">IEEE Robotics and Automation Society — Technical Committee on Human-Robot Interaction & Coordination (HRIC)</div>
   </div>
 </div>
 
 ## Skills
 
 <div class="skills-list">
-  <span class="skill-tag">Python</span>
-  <span class="skill-tag">MATLAB</span>
-  <span class="skill-tag">JavaScript</span>
-  <span class="skill-tag">Machine Learning</span>
-  <span class="skill-tag">Deep Learning</span>
-  <span class="skill-tag">Signal Processing</span>
   <span class="skill-tag">Human–Robot Interaction</span>
-  <span class="skill-tag">Data Science</span>
+  <span class="skill-tag">Social Robotics</span>
+  <span class="skill-tag">Cognitive & Motor Assessment</span>
+  <span class="skill-tag">Machine Learning & AI</span>
+  <span class="skill-tag">Neuromorphic Computing</span>
+  <span class="skill-tag">Signal Processing & Biomedical Data</span>
   <span class="skill-tag">Experimental Design</span>
-  <span class="skill-tag">Teaching</span>
+  <span class="skill-tag">Data Science</span>
 </div>
 
 ## Languages

@@ -76,7 +76,7 @@
       text-align: center;
     }
     .hero-avatar {
-      width: 90px; height: 90px;
+      width: 110px; height: 110px;
       border-radius: 50%;
       background: var(--teal);
       margin: 0 auto 1.5rem;
@@ -85,6 +85,13 @@
       font-family: 'Playfair Display', serif;
       color: white;
       font-weight: 700;
+      overflow: hidden;
+      border: 3px solid rgba(255,255,255,0.25);
+    }
+    .hero-avatar img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      border-radius: 50%;
     }
     .hero h1 {
       font-family: 'Playfair Display', serif;
@@ -109,6 +116,22 @@
       font-size: 0.82rem;
       font-weight: 400;
     }
+
+    .hero-cv-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.3);
+      color: #e2e8f0;
+      padding: 0.45rem 1.2rem;
+      border-radius: 8px;
+      font-size: 0.88rem;
+      font-weight: 500;
+      text-decoration: none;
+      transition: background 0.2s, border-color 0.2s;
+    }
+    .hero-cv-link:hover { background: rgba(255,255,255,0.2); border-color: rgba(255,255,255,0.5); text-decoration: none; color: white; }
 
     /* ── PAGE HEADER (non-home) ── */
     .page-header {
@@ -228,6 +251,35 @@
       font-weight: 500;
     }
 
+    /* ── PUB AWARD BADGE ── */
+    .pub-award {
+      display: inline-block;
+      background: #fef9c3;
+      color: #854d0e;
+      border: 1px solid #fde68a;
+      border-radius: 20px;
+      padding: 0.1rem 0.65rem;
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+    }
+
+    /* ── CV DOWNLOAD BUTTON ── */
+    .cv-download-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      background: var(--teal);
+      color: white;
+      padding: 0.6rem 1.4rem;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      font-weight: 500;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .cv-download-btn:hover { background: #0f766e; text-decoration: none; color: white; }
+
     /* ── CONTACT ── */
     .contact-card {
       background: var(--light);
@@ -271,7 +323,9 @@
 
 {% if page.url == "/" %}
 <div class="hero">
-  <div class="hero-avatar">MM</div>
+  <div class="hero-avatar">
+    <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Marco Vincenzo Maselli" onerror="this.style.display='none';this.parentElement.insertAdjacentText('beforeend','MM')">
+  </div>
   <h1>Marco Vincenzo Maselli</h1>
   <p class="subtitle">Biomedical Engineer &nbsp;·&nbsp; PhD Student &nbsp;·&nbsp; University of Florence</p>
   <div class="hero-badges">
@@ -279,6 +333,9 @@
     <span class="badge">Human–Robot Interaction</span>
     <span class="badge">Neuromorphic Computing</span>
     <span class="badge">Machine Learning</span>
+  </div>
+  <div style="margin-top:1.5rem;">
+    <a href="{{ '/assets/CV_MM.pdf' | relative_url }}" class="hero-cv-link" target="_blank">↓ Download CV</a>
   </div>
 </div>
 {% else %}

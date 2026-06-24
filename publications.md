@@ -5,16 +5,16 @@ title: Publications
 
 ## Journal and Conference Papers
 
-<!-- <div class="card">
-  <strong>Ecological Inhibition: Using Social Robots to Capture Motor Signatures of Impulsivity</strong><br>
-  Maselli M.V., Pani J., Gavazzi G., Fiorini L.<br>
-  <em>Submitted — Transactions on Human-Robot Interaction</em>
-</div> -->
-
 <div class="card">
   <strong>Evaluating Vocal Dynamics in Children Using a Neuromorphic Approach</strong><br>
   Maselli M.V. et al.<br>
-  <em>IEEE EMBC 2026 —  Student Paper Competition Finalist</em>
+  <em>IEEE EMBC 2026</em> &nbsp;·&nbsp; <span class="pub-award">Best Student Paper Finalist</span>
+</div>
+
+<div class="card">
+  <strong>Humanoids Robots in Pediatric Care Facilities: from Pain Management to Cognitive Rehabilitative Support</strong><br>
+  Fiorini L., Adelucci E., Maselli M.V. et al.<br>
+  <em>IEEE Ro-Man 2025 — In press</em>
 </div>
 
 <div class="card">
@@ -27,6 +27,12 @@ title: Publications
   <strong>Robots and Reflexes: Analyzing the Stroop Effect and Impulsiveness in Human–Robot Interaction</strong><br>
   Sorrentino A., Pani J., Maselli M.V. et al.<br>
   <em>ICSR 2025</em>
+</div>
+
+<div class="card">
+  <strong>Can You Help Me Re-Order a Story? Design and Development of a Game-Based Activity with NAO for Children</strong><br>
+  Maselli M.V. et al.<br>
+  <em>IX National Congress of Bioengineering — In press</em>
 </div>
 
 <div class="card">
@@ -44,5 +50,5 @@ title: Publications
 <div class="card">
   <strong>Continuous Action Recognition in Manufacturing Contexts by Deep Graph Convolutional Networks</strong><br>
   Maselli M.V. et al.<br>
-  <em>Intelligent Systems and Applications</em>
+  <em>Intelligent Systems and Applications, 2024</em>
 </div>
