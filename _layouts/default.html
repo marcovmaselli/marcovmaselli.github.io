@@ -7,6 +7,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -290,15 +292,80 @@
     .contact-row { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem; font-size: 0.95rem; }
     .contact-icon { font-size: 1.1rem; }
 
+    /* ── VISITOR COUNTER ── */
+    .visitor-banner {
+      text-align: center;
+      padding: 2.5rem 2rem;
+      background: var(--light);
+      border-top: 1px solid var(--border);
+    }
+    .visitor-banner h3 {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--gray);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 1rem;
+    }
+    .visitor-widget {
+      display: inline-block;
+      padding: 1rem 1.5rem;
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      transition: transform 0.2s;
+    }
+    .visitor-widget:hover { transform: scale(1.03); }
+
     /* ── FOOTER ── */
     footer {
       background: var(--navy);
       color: #94a3b8;
       text-align: center;
-      padding: 1.8rem 2rem;
+      padding: 2rem 2rem 1.6rem;
       font-size: 0.83rem;
     }
     footer a { color: #94a3b8; }
+    .footer-name {
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: #e2e8f0;
+      margin-bottom: 0.9rem;
+    }
+    .footer-icons {
+      list-style: none;
+      display: flex;
+      justify-content: center;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+      padding: 0;
+    }
+    .footer-icons a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 38px; height: 38px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.15);
+      color: #94a3b8;
+      font-size: 1rem;
+      transition: background 0.2s, color 0.2s, border-color 0.2s;
+      text-decoration: none;
+    }
+    .footer-icons a:hover {
+      background: var(--teal);
+      border-color: var(--teal);
+      color: white;
+      text-decoration: none;
+    }
+    .footer-copy {
+      font-size: 0.78rem;
+      color: #64748b;
+      margin-top: 0.5rem;
+    }
 
     /* ── RESPONSIVE ── */
     @media (max-width: 600px) {
@@ -348,11 +415,25 @@
   {{ content }}
 </main>
 
+{% if page.url == "/" %}
+<div class="visitor-banner">
+  <h3>Visitors from around the world</h3>
+  <div class="visitor-widget">
+    <a href="https://info.flagcounter.com/EwIZ"><img src="https://s01.flagcounter.com/count2/EwIZ/bg_FFFFFF/txt_334155/border_0D9488/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+  </div>
+</div>
+{% endif %}
+
 <footer>
-  &copy; {{ site.time | date: "%Y" }} Marco Vincenzo Maselli &nbsp;·&nbsp;
-  <a href="https://github.com/marcovmaselli">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mv-maselli/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://orcid.org/0009-0004-0893-6513">ORCID</a>
+  <p class="footer-name">Marco Vincenzo Maselli</p>
+  <ul class="footer-icons">
+    <li><a href="mailto:marcovincenzo.maselli@unifi.it" title="Email"><i class="fas fa-envelope"></i></a></li>
+    <li><a href="https://www.linkedin.com/in/mv-maselli/" target="_blank" rel="noopener" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
+    <li><a href="https://github.com/marcovmaselli" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-github"></i></a></li>
+    <li><a href="https://scholar.google.com/citations?user=GdpGVaUAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
+    <li><a href="https://orcid.org/0009-0004-0893-6513" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid"></i></a></li>
+  </ul>
+  <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} Marco Vincenzo Maselli</p>
 </footer>
 
 </body>

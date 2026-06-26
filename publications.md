@@ -3,52 +3,45 @@ layout: default
 title: Publications
 ---
 
-## Journal and Conference Papers
-
-<div class="card">
-  <strong>Evaluating Vocal Dynamics in Children Using a Neuromorphic Approach</strong><br>
-  <strong>Maselli M.V.</strong>, Fiorini L., Adelucci E., Pecini C., Scatigna S., Sgandurra G., Di Lieto M.C., Del Lucchese B., Cavallo F.<br>
-  <em>IEEE EMBC 2026</em> &nbsp;·&nbsp; <span class="pub-award">Best Student Paper Finalist</span>
+<div style="display:flex; align-items:center; gap:1rem; margin-bottom:2rem; flex-wrap:wrap;">
+  <a href="{{ '/pub.bib' | relative_url }}" download class="cv-download-btn">
+    ↓ Download pub.bib
+  </a>
+  <a href="https://scholar.google.com/citations?user=GdpGVaUAAAAJ" target="_blank" class="social-link">
+    Google Scholar profile →
+  </a>
 </div>
 
-<div class="card">
-  <strong>Humanoids Robots in Pediatric Care Facilities: from Pain Management to Cognitive Rehabilitative Support</strong><br>
-  Fiorini L., Adelucci E., <strong>Maselli M.V.</strong>, Pani J., Pugi L., Buttari G., Pecini C., Cristella G., Di Lieto M.C., Sgandurra G., Biffi E., Storm F.A., Signorini S., Cavallo F.<br>
-  <em>IEEE Ro-Man 2025, in press</em>
-</div>
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/marcovmaselli/marcovmaselli.github.io/main/pub.bib&theme=simple&jsonp=1"></script>
 
-<div class="card">
-  <strong>Evaluating Children Engagement and Robot Perception Interacting with NAO Robot in Educational Context</strong><br>
-  Fiorini L., Pecini C., <strong>Maselli M.V.</strong>, Pugi L., Adelucci E., Musca H., Pani J., Scatigna S., Di Lieto M.C., Del Lucchese B., Sgandurra G., Cavallo F.<br>
-  <em>International Conference on Social Robotics 2025</em>
-</div>
-
-<div class="card">
-  <strong>Robots and Reflexes: Analyzing the Stroop Effect and Impulsiveness in Human-Robot Interaction</strong><br>
-  Sorrentino A., Pani J., La Viola C., Kim J., <strong>Maselli M.V.</strong>, Iacopini S., Fiorini L., Cavallo F.<br>
-  <em>ICSR 2025</em>
-</div>
-
-<div class="card">
-  <strong>Can You Help Me Re-Order a Story? Design and Development of a Game-Based Activity with NAO for Children</strong><br>
-  <strong>Maselli M.V.</strong>, Musca H., Pecini C., Scatigna S., Mei S., Di Lieto M.C., Del Lucchese B., Sgandurra G., Biffi E., Storm F.A., Cavallo F., Fiorini L.<br>
-  <em>IX National Congress of Bioengineering, in press</em>
-</div>
-
-<div class="card">
-  <strong>Do You Want to Play with Me? Preliminary Study of a Motor Control Walking Game with Pepper Robot</strong><br>
-  <strong>Maselli M.V.</strong>, Gavazzi G., Pani J., Sorrentino A., Mancioppi G., Cavallo F., Fiorini L.<br>
-  <em>ForItAAL 2024</em>
-</div>
-
-<div class="card">
-  <strong>A Dataset on Human-Cobot Collaboration for Action Recognition in Manufacturing Assembly</strong><br>
-  Romeo L., <strong>Maselli M.V.</strong>, Garcia Dominguez M., Marani R., Lavit Nicora M., Cicirelli G.<br>
-  <em>CoDIT 2024</em>
-</div>
-
-<div class="card">
-  <strong>Continuous Action Recognition in Manufacturing Contexts by Deep Graph Convolutional Networks</strong><br>
-  <strong>Maselli M.V.</strong>, Marani R., Cicirelli G., D'Orazio T.<br>
-  <em>Intelligent Systems and Applications, 2024</em>
-</div>
+<style>
+/* BibBase integration overrides */
+.bibbase_paper {
+  padding: 1.4rem 1.6rem;
+  margin-bottom: 1rem;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  transition: box-shadow 0.2s, transform 0.2s;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+.bibbase_paper:hover {
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+}
+.bibbase_paper .title {
+  font-weight: 600;
+  color: #0f172a;
+  font-size: 1rem;
+}
+.bibbase_paper .author {
+  color: #334155;
+}
+.bibbase_paper .author b,
+.bibbase_paper .author strong {
+  color: #0f172a;
+}
+.bibbase_year { color: #0d9488; font-weight: 600; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; }
+#bibbase_header { display: none; }
+</style>
