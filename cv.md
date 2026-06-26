@@ -103,6 +103,17 @@ title: Curriculum Vitae
   </div>
 </div>
 
+## Supervision
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">A.A. 2024/2025</div>
+    <div class="timeline-title">Co-supervisor, Master's Thesis</div>
+    <div class="timeline-sub">University of Florence</div>
+    <p style="font-size:0.92rem;"><em>Design and development of social robotics solutions for cognitive stimulation activities in children</em> — Candidato: Hélène Musca</p>
+  </div>
+</div>
+
 ## Volunteering
 
 <div class="timeline">
