@@ -57,7 +57,8 @@ title: Curriculum Vitae
   <div class="timeline-item">
     <div class="timeline-date">2023 – 2024</div>
     <div class="timeline-title">Adjunct Professor</div>
-    <div class="timeline-sub">Politecnico di Bari, Fundamentals of Computer Science for Engineering</div>
+    <div class="timeline-sub">Politecnico di Bari </div>
+    <p style="font-size:0.92rem;">Fundamentals of Computer Science for Engineering.</p>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2022 – 2023</div>
@@ -68,7 +69,8 @@ title: Curriculum Vitae
   <div class="timeline-item">
     <div class="timeline-date">2021 – 2022</div>
     <div class="timeline-title">Research Assistant</div>
-    <div class="timeline-sub">Politecnico di Bari, signal processing and ECG analysis</div>
+    <div class="timeline-sub">Politecnico di Bari </div> 
+    <p style="font-size:0.92rem;">Signal processing and ECG analysis.</p>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2021</div>
@@ -110,7 +112,7 @@ title: Curriculum Vitae
     <div class="timeline-date">A.A. 2024/2025</div>
     <div class="timeline-title">Co-supervisor, Master's Thesis</div>
     <div class="timeline-sub">University of Florence</div>
-    <p style="font-size:0.92rem;"><em>Design and development of social robotics solutions for cognitive stimulation activities in children</em> — Candidato: Hélène Musca</p>
+    <p style="font-size:0.92rem;"><em>Design and development of social robotics solutions for cognitive stimulation activities in children</em> Candidata: Hélène Musca</p>
   </div>
 </div>
 
