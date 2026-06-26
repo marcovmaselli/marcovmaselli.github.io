@@ -3,8 +3,13 @@ layout: default
 title: Curriculum Vitae
 ---
 
-<div style="margin-bottom:2.5rem;">
-  <a href="/assets/CV_MM.pdf" class="cv-download-btn" target="_blank">↓ Download full CV (PDF)</a>
+<div style="margin-bottom:1.5rem;">
+  <a href="{{ '/assets/CV_MM.pdf' | relative_url }}" class="cv-download-btn" target="_blank">↓ Download full CV (PDF)</a>
+</div>
+
+<div style="margin-bottom:3rem;">
+  <iframe src="{{ '/assets/CV_MM.pdf' | relative_url }}" width="100%" height="820px" frameborder="0"
+    style="border:1px solid #e2e8f0; border-radius:10px; display:block;"></iframe>
 </div>
 
 ## Education
