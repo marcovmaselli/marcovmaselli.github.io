@@ -84,6 +84,12 @@ title: Curriculum Vitae
     <div class="timeline-sub">Accenture, Torino</div>
     <p style="font-size:0.92rem;">Managed and customized the Kinaxis RapidResponse platform for enterprise clients; translated supply-chain requirements into technical specifications and data-driven solutions.</p>
   </div> 
+     <div class="timeline-item">
+    <div class="timeline-date">2021</div>
+    <div class="timeline-title">Technical Service</div>
+    <div class="timeline-sub">DiEmmeBi, Bari</div>
+    <p style="font-size:0.92rem;">Technical service assistance for events.</p>
+  </div> 
   <div class="timeline-item">
     <div class="timeline-title">Waiter, Bartender &amp; Event Technician</div>
     <div class="timeline-sub">Various, alongside studies</div>
