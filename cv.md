@@ -79,7 +79,7 @@ title: Curriculum Vitae
   <div class="timeline-item">
     <div class="timeline-date">2021</div>
     <div class="timeline-title">Field Service Engineer</div>
-    <div class="timeline-sub">Euroclinics, Puglia region</div>
+    <div class="timeline-sub">Euroclinics (Beckman Coulter agency), Puglia region</div>
     <p style="font-size:0.92rem;">Installation and maintenance of biomedical diagnostic equipment in hospitals and clinical laboratories.</p>
   </div>
   <div class="timeline-item">
