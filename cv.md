@@ -71,17 +71,17 @@ title: Curriculum Vitae
     <div class="timeline-sub">Politecnico di Bari, signal processing and ECG analysis</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2021 – 2022</div>
-    <div class="timeline-title">Junior Functional Analyst</div>
-    <div class="timeline-sub">Accenture, Torino</div>
-    <p style="font-size:0.92rem;">Managed and customized the Kinaxis RapidResponse platform for enterprise clients; translated supply-chain requirements into technical specifications and data-driven solutions.</p>
-  </div>
-  <div class="timeline-item">
     <div class="timeline-date">2021</div>
     <div class="timeline-title">Field Service Engineer</div>
     <div class="timeline-sub">Euroclinics (Beckman Coulter agency), Puglia region</div>
     <p style="font-size:0.92rem;">Installation and maintenance of biomedical diagnostic equipment in hospitals and clinical laboratories.</p>
   </div>
+   <div class="timeline-item">
+    <div class="timeline-date">2020 – 2021</div>
+    <div class="timeline-title">Junior Functional Analyst</div>
+    <div class="timeline-sub">Accenture, Torino</div>
+    <p style="font-size:0.92rem;">Managed and customized the Kinaxis RapidResponse platform for enterprise clients; translated supply-chain requirements into technical specifications and data-driven solutions.</p>
+  </div> 
   <div class="timeline-item">
     <div class="timeline-title">Waiter, Bartender &amp; Event Technician</div>
     <div class="timeline-sub">Various, alongside studies</div>
