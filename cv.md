@@ -133,7 +133,7 @@ title: Curriculum Vitae
   <div class="timeline-item">
     <div class="timeline-date">2025 – Present</div>
     <div class="timeline-title">Accompanying Tutor</div>
-    <div class="timeline-sub">Spark Campus, Fondazione CR Firenze – Dynamo Academy</div>
+    <div class="timeline-sub">SPARK, Fondazione CR Firenze – Dynamo Academy</div>
   </div>
 </div>
 
