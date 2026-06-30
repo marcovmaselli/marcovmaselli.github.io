@@ -118,7 +118,7 @@ title: Curriculum Vitae
     <div class="timeline-date">A.A. 2024/2025</div>
     <div class="timeline-title">Co-supervisor, Master's Thesis</div>
     <div class="timeline-sub">University of Florence</div>
-    <p style="font-size:0.92rem;"><em>Design and development of social robotics solutions for cognitive stimulation activities in children</em> Candidata: Hélène Musca</p>
+    <p style="font-size:0.92rem;"><em>Design and development of social robotics solutions for cognitive stimulation activities in children</em> Candidate: Hélène Musca</p>
   </div>
 </div>
 
@@ -129,6 +129,11 @@ title: Curriculum Vitae
     <div class="timeline-date">2026 – Present</div>
     <div class="timeline-title">Student Representative</div>
     <div class="timeline-sub">IEEE Robotics and Automation Society, Technical Committee on Human-Robot Interaction &amp; Coordination (HRIC)</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2025 – Present</div>
+    <div class="timeline-title">Accompanying Tutor</div>
+    <div class="timeline-sub">Spark Campus, Fondazione CR Firenze – Dynamo Academy</div>
   </div>
 </div>
 
