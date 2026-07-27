@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  {% seo title=false %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
@@ -457,7 +458,8 @@
   </div>
   <p class="hero-bio">I study how people interact with robots, and what those interactions reveal about cognition and motor control. My work spans experimental HRI, neuromorphic signal processing, and the design of clinical assessment tools.</p>
   <div style="margin-top:1.5rem;">
-    <a href="{{ '/assets/CV_MM.pdf' | relative_url }}" class="hero-cv-link" target="_blank">↓ Download CV</a>
+    <a href="{{ '/assets/CV_MM.pdf' | relative_url }}" class="hero-cv-link" target="_blank"
+       data-goatcounter-click="cv-pdf" data-goatcounter-title="CV download (home)">↓ Download CV</a>
   </div>
 </div>
 {% else %}
@@ -503,5 +505,10 @@
     links.classList.remove('open');
   }));
 </script>
+
+{% if site.goatcounter_code and site.goatcounter_code != "" %}
+<script data-goatcounter="https://{{ site.goatcounter_code }}.goatcounter.com/count"
+        async src="https://gc.zgo.at/count.js"></script>
+{% endif %}
 </body>
 </html>

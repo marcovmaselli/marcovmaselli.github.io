@@ -4,7 +4,8 @@ title: Curriculum Vitae
 ---
 
 <div style="margin-bottom:1.5rem;">
-  <a href="{{ '/assets/CV_MM.pdf' | relative_url }}" class="cv-download-btn" target="_blank">↓ Download full CV (PDF)</a>
+  <a href="{{ '/assets/CV_MM.pdf' | relative_url }}" class="cv-download-btn" target="_blank"
+     data-goatcounter-click="cv-pdf" data-goatcounter-title="CV download (cv page)">↓ Download full CV (PDF)</a>
 </div>
 
 <div style="margin-bottom:3rem;">

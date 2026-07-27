@@ -1,12 +1,31 @@
 title: "Marco Vincenzo Maselli"
 author: "Marco Vincenzo Maselli"
 description: "Biomedical Engineer and PhD Student in Social Robotics and Cognitive-Motor Assessment"
+url: "https://marcovmaselli.github.io"
+lang: en
 theme: jekyll-theme-minimal
 
 markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
+
+# Used by jekyll-seo-tag for link previews (LinkedIn, X, Slack, ...)
+image: /assets/img/profile.jpg
+social:
+  name: "Marco Vincenzo Maselli"
+  links:
+    - https://www.linkedin.com/in/mv-maselli/
+    - https://github.com/marcovmaselli
+    - https://orcid.org/0009-0004-0893-6513
+    - https://scholar.google.com/citations?user=GdpGVaUAAAAJ
+    - https://www.scopus.com/authid/detail.uri?authorId=59852384000
+    - https://www.researchgate.net/profile/Marco-Vincenzo-Maselli
+
+# GoatCounter analytics: paste the site code from your dashboard URL
+# (e.g. "marcovmaselli" if it is marcovmaselli.goatcounter.com).
+# Left empty, no tracking script is emitted at all.
+goatcounter_code: ""
 
 navigation:
   - title: "Home"

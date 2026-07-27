@@ -4,7 +4,8 @@ title: Publications
 ---
 
 <div style="display:flex; align-items:center; gap:1rem; margin-bottom:2rem; flex-wrap:wrap;">
-  <a href="{{ '/pub.bib' | relative_url }}" download class="cv-download-btn">
+  <a href="{{ '/pub.bib' | relative_url }}" download class="cv-download-btn"
+     data-goatcounter-click="pub-bib" data-goatcounter-title="pub.bib download">
     ↓ Download pub.bib
   </a>
   <a href="https://scholar.google.com/citations?user=GdpGVaUAAAAJ" target="_blank" class="social-link">

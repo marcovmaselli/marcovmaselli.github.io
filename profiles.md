@@ -36,19 +36,19 @@ title: Profiles
     </div>
   </a>
 
-  <a class="profile-card" href="https://www.scopus.com/authid/detail.uri?authorId=YOUR_SCOPUS_ID" target="_blank" rel="noopener">
+  <a class="profile-card" href="https://www.scopus.com/authid/detail.uri?authorId=59852384000" target="_blank" rel="noopener">
     <div class="profile-icon" style="background:#e9711c; color:#fff;">S</div>
     <div>
       <div class="profile-name">Scopus</div>
-      <div class="profile-id">Author profile</div>
+      <div class="profile-id">Author ID 59852384000</div>
     </div>
   </a>
 
-  <a class="profile-card" href="https://www.researchgate.net/profile/YOUR_RESEARCHGATE_PROFILE" target="_blank" rel="noopener">
+  <a class="profile-card" href="https://www.researchgate.net/profile/Marco-Vincenzo-Maselli" target="_blank" rel="noopener">
     <div class="profile-icon" style="background:#00d0af; color:#fff;">RG</div>
     <div>
       <div class="profile-name">ResearchGate</div>
-      <div class="profile-id">Author profile</div>
+      <div class="profile-id">Marco Vincenzo Maselli</div>
     </div>
   </a>
 
